@@ -7,4 +7,6 @@ downloads_folder = os.path.expanduser('~/Downloads')
 
 # List the files in ~/Downloads
 files = os.listdir(downloads_folder)
-print(files)
+
+# Declare file destination
+pdf_folder = os.path.expanduser('~/Documents/PDFs')
