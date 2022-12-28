@@ -1,0 +1,5 @@
+#! /bin/bash
+
+set -evx
+
+python3 file_automation.py
